@@ -1,6 +1,6 @@
 title: Sergi Caelles
 description: > # this means to ignore newlines until "baseurl:"
-  Research Scientist at Google Research
+  Senior Research Engineer at Google DeepMind
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -9,7 +9,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Sergi Caelles # add your name
 author-img: sergi-caelles.jpg # add your photo
-about-author: Research Scientist at Google Research # add description
+about-author: Senior Research Engineer at Google DeepMind # add description
 social-twitter: skprat # add your Twitter handle
 google-scholar: 4C59xWsAAAAJ&hl
 social-facebook: # add your Facebook handle
